@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+	<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+	<Authors>Regis Leandro Sebastiani</Authors>
+	<Description>Gerador de senhas aleatórias</Description>
+  </PropertyGroup>
+
+</Project>
